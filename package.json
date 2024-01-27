@@ -1,6 +1,9 @@
 {
   "name": "threejs-jorney",
   "version": "1.0.0",
-  "dependencies": {
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "globals": "^13.24.0"
   }
 }
